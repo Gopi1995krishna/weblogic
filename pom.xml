@@ -37,7 +37,7 @@
     <repository>
         <id>central</id>
         <name>sfb6af0.ssubnet1.vcn16af0.oraclevcn.com-releases</name>
-        <url>http://129.146.65.208:8081/artifactory/libs-release</url>
+        <url>http://129.146.65.208:8081/artifactory/libs-release-local</url>
     </repository>
 </distributionManagement>
 </project>
