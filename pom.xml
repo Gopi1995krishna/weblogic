@@ -37,12 +37,7 @@
     <repository>
         <id>central</id>
         <name>sfb6af0.ssubnet1.vcn16af0.oraclevcn.com-releases</name>
-        <url>http://129.146.65.208:8081/artifactory/soajumpstart</url>
+        <url>http://129.146.65.208:8081/artifactory/libs-release-local</url>
     </repository>
-    <snapshotRepository>
-        <id>snapshots</id>
-        <name>sfb6af0.ssubnet1.vcn16af0.oraclevcn.com-snapshots</name>
-        <url>http://129.146.65.208:8081/artifactory/soajumpstart</url>
-    </snapshotRepository>
 </distributionManagement>
 </project>
