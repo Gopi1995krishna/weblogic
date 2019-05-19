@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
-<Admin RepositoryVersion="05.02.02.07" IsLegacyIdCompatible="false" />
+<Admin RepositoryVersion="05.02.02.07" IsLegacyIdCompatible="true" />
 <Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="8Uf+YjFj9gM8Ebbsj8fNNQ==" exportKeySalt="d4fa3d65-1006-46a9-a34c-21e18121e004" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpProject">
 		<Field name="BegVersion" type="java.sql.Timestamp">null</Field>
